@@ -17,5 +17,9 @@
 !zsh/
 
 # Ignore directories that are already git repos
-polybar/modules/*
-zsh/plugins/*
+polybar/modules/polybar-calendar
+zsh/plugins/fast-syntax-highlighting
+zsh/plugins/history-search-multi-word
+zsh/plugins/powerlevel10k
+zsh/plugins/zsh-autosuggestions
+zsh/plugins/zsh-autopair
