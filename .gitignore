@@ -15,3 +15,7 @@
 !rofi/
 !sxhkd
 !zsh/
+
+# Ignore directories that are already git repos
+polybar/modules/*
+zsh/plugins/*
