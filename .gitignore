@@ -1,0 +1,17 @@
+# Set as whitelist
+*
+!*/
+
+# Track itself
+!.gitignore
+
+# Folders and files
+!picom.conf
+!alacritty/
+!bspwm/
+!dunst/
+!polybar/
+!qt5ct/
+!rofi/
+!sxhkd
+!zsh/
