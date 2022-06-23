@@ -1,6 +1,6 @@
 # Set as whitelist
 *
-!*/
+!*/*
 
 # Track itself
 !.gitignore
