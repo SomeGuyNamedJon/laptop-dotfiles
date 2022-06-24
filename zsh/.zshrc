@@ -51,7 +51,7 @@ bindkey -- '^[[1;5C' forward-word
 
 # Environment
 export EDITOR="nvim"
-export TERMINAL="kitty"
+export TERMINAL="alacritty"
 export BROWSER="firefox"
 export PAGER="most"
 export PATH=$PATH:~/.local/bin
@@ -86,8 +86,8 @@ alias lS='lsd --oneline --classic'
 alias lt='lsd --tree --depth=1'
 alias lf='lf-ueberzug'
 alias grep='grep --color=always'
-alias connect_web-tech='ssh -i "~/Documents/zyj680-2022.pem" ubuntu@ec2-54-221-18-237.compute-1.amazonaws.com'
-alias connect_advancedSE='ssh -i "~/Documents/zyj680-2022.pem" ubuntu@ec2-54-89-42-178.compute-1.amazonaws.com'
+alias mousefix='sudo modprobe -r psmouse; sudo modprobe psmouse'
+alias cat='bat -n'
 
 # Source
 source "$HOME/.config/zsh/plugins/powerlevel10k/powerlevel10k.zsh-theme"
