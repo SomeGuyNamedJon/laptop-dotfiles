@@ -66,6 +66,7 @@ bspc rule -a Emacs state=tiled
 bspc rule -a balena-etcher-electron state=tiled
 bspc rule -a Pycalendar.py state=floating rectangle=550x250+800+40
 bspc rule -a "Select Font" state=tiled
+bspc rule -a MEGAsync state=floating rectangle=250x400+950+40
 
 ## Border
 bspc config focused_border_color        "#bd93f9"
