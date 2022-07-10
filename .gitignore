@@ -23,3 +23,6 @@ zsh/plugins/history-search-multi-word
 zsh/plugins/powerlevel10k
 zsh/plugins/zsh-autosuggestions
 zsh/plugins/zsh-autopair
+
+# Ignore log and dump files
+zsh/.zcompdump
