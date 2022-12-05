@@ -1,21 +1,20 @@
 # Set as whitelist
 *
-!*/*
+!*/
 
 # Track itself
 !.gitignore
 
 # Folders and files
 !picom.conf
-!alacritty/*
-!bspwm/*
-!dunst/*
-!polybar/*
-!qt5ct/*
-!rofi/*
-!rofi/colors/*
-!sxhkd/*
-!zsh/*
+!alacritty/**
+!bspwm/**
+!dunst/**
+!polybar/**
+!qt5ct/**
+!rofi/**
+!sxhkd/**
+!zsh/**
 
 # Ignore directories that are already git repos
 polybar/modules/polybar-calendar

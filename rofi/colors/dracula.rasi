@@ -1,0 +1,34 @@
+/*******************************************************
+ * ROFI Dracula colors for EndeavourOS
+ * Maintainer: someguynamedjon
+ *******************************************************/
+* {
+    selected-normal-foreground:  #bd93f9ff;
+    foreground:                  #f8f8f2ff;
+    normal-foreground:           @foreground;
+    alternate-normal-background: #2d303b02;
+    red:                         #ff5555ff;
+    selected-urgent-foreground:  #f9f9f9ff;
+    blue:                        #6272a4ff;
+    urgent-foreground:           #ffb86cff;
+    alternate-urgent-background: #4b5160e5;
+    active-foreground:           #8be9fdff;
+    lightbg:                     #eee8d5ff;
+    selected-active-foreground:  #ff79c6ff;
+    alternate-active-background: #282a36e0;
+    background:                  #282a36e0;
+    alternate-normal-foreground: @foreground;
+    normal-background:           #2d303b02;
+    lightfg:                     #586875ff;
+    selected-normal-background:  #181a20ff;
+    border-color:                #7c8389ff;
+    spacing:                     2;
+    separatorcolor:              #2d303b02;
+    urgent-background:           #2d303b26;
+    selected-urgent-background:  #f1fa8cff;
+    alternate-urgent-foreground: @urgent-foreground;
+    background-color:            #00000000;
+    alternate-active-foreground: @active-foreground;
+    active-background:           #1d1f212b;
+    selected-active-background:  #1a1c23ff;
+}
