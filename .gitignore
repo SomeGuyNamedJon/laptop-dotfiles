@@ -7,14 +7,15 @@
 
 # Folders and files
 !picom.conf
-!alacritty/
-!bspwm/
-!dunst/
-!polybar/
-!qt5ct/
-!rofi/
-!sxhkd
-!zsh/
+!alacritty/*
+!bspwm/*
+!dunst/*
+!polybar/*
+!qt5ct/*
+!rofi/*
+!rofi/colors/*
+!sxhkd/*
+!zsh/*
 
 # Ignore directories that are already git repos
 polybar/modules/polybar-calendar
