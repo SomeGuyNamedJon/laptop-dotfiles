@@ -1,0 +1,34 @@
+import = ["/home/jonathanv/.config/alacritty/dracula.toml"]
+
+[cursor]
+blink_interval = 750
+
+[cursor.style]
+blinking = "On"
+shape = "Block"
+
+[env]
+TERM = "alacritty"
+
+[font]
+size = 12.0
+
+[font.bold]
+family = "Iosevka Term"
+style = "Bold"
+
+[font.bold_italic]
+family = "Iosevka Term"
+style = "Bold Italic"
+
+[font.italic]
+family = "Iosevka Term"
+style = "Italic"
+
+[font.normal]
+family = "Iosevka Term"
+style = "Regular"
+
+[window.padding]
+x = 15
+y = 15
