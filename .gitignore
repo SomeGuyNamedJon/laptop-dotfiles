@@ -16,6 +16,9 @@
 !sxhkd/**
 !zsh/**
 
+# Ignore zsh history 
+zsh/.histfile
+
 # Ignore directories that are already git repos
 polybar/modules/polybar-calendar
 zsh/plugins/fast-syntax-highlighting
